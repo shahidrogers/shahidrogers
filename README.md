@@ -8,12 +8,7 @@ I work on cross-platform fintech in React Native — earned-wage access, cross-b
 
 #### Open source
 
-I contribute fixes back to the libraries I depend on:
-
-- **[react-native](https://github.com/react/react-native/pull/57423)** — fixed a `ClassCastException` in `clearFocusAndMaybeRefocus` on detached EditText views *(merged into core)*
-- **[posthog-js](https://github.com/PostHog/posthog-js/pull/4064)** — kept generated UUIDv7s valid by sanitizing generator inputs
-- **[react-native-mask-text](https://github.com/akinncar/react-native-mask-text/pull/324)** — corrected currency unmasking for empty values *(merged)*
-- **[react-native-date-picker](https://github.com/henninghall/react-native-date-picker/pull/971)** — fixed a New Architecture crash in the picker's TurboModule spec
+Contributions to [react-native](https://github.com/react/react-native/pull/57423), [posthog-js](https://github.com/PostHog/posthog-js/pull/4064), [react-native-mask-text](https://github.com/akinncar/react-native-mask-text/pull/324), and [react-native-date-picker](https://github.com/henninghall/react-native-date-picker/pull/971).
 
 #### Projects
 
