@@ -2,7 +2,7 @@
 
 Head of Frontend Engineering at [Paywatch](https://paywatchglobal.com), based in Kuala Lumpur.
 
-I work on cross-platform fintech in React Native — earned-wage access, cross-border withdrawals, and KYC across a few markets.
+I build cross-platform apps spanning dating, earned-wage access, news, insurance, cross-border withdrawals, and more.
 
 *Infinite frontier* — the belief that there's always further to go. It's how I approach the work.
 
