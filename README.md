@@ -14,7 +14,7 @@ People don't open apps. They reach for something — the pay they've already ear
 
 #### Open source
 
-The tools I build on, I help keep sharp. [react-native](https://github.com/react/react-native). [react-native-mask-text](https://github.com/akinncar/react-native-mask-text). I want to do more.
+The tools I build on are open. Now and then I send a fix back — and I want to do more of it.
 
 #### Elsewhere
 
