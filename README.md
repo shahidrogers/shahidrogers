@@ -1,20 +1,20 @@
 ### Shahid R
 
-Head of Frontend Engineering at [Paywatch](https://paywatchglobal.com), based in Kuala Lumpur.
+Head of Frontend Engineering at [Paywatch](https://paywatchglobal.com). Kuala Lumpur.
 
-I build cross-platform apps spanning dating, earned-wage access, news, insurance, cross-border withdrawals, and more.
+People don't open apps. They reach for something — a paycheck that comes early, someone to talk to, the morning's news, a little cover against the worst day. I build the things they reach for.
 
-*Infinite frontier* — the belief that there's always further to go. It's how I approach the work.
+*Infinite frontier.* There is always further to go.
 
 #### Projects
 
-- **[whisper-cli](https://github.com/shahidrogers/whisper-cli)** — a natural-language terminal assistant that turns plain intentions into safe shell commands
-- **[react-native-developer-console](https://github.com/shahidrogers/react-native-developer-console)** — an in-app debugging console for React Native: network logging, device info, dev tools
-- **[MaMaMo](https://github.com/shahidrogers/MaMaMo)** — an open-source ~200-equation quarterly macroeconomic model of the Malaysian economy
+- **[whisper-cli](https://github.com/shahidrogers/whisper-cli)** — Tell your terminal what you mean. It does the rest.
+- **[react-native-developer-console](https://github.com/shahidrogers/react-native-developer-console)** — A window into your app while it's still running.
+- **[MaMaMo](https://github.com/shahidrogers/MaMaMo)** — An open model of the Malaysian economy. Two hundred equations. No gatekeeping.
 
 #### Open source
 
-Contributions to [react-native](https://github.com/react/react-native) and [react-native-mask-text](https://github.com/akinncar/react-native-mask-text). Something I'm looking to do more of.
+The tools I build on, I help keep sharp. [react-native](https://github.com/react/react-native). [react-native-mask-text](https://github.com/akinncar/react-native-mask-text). I want to do more.
 
 #### Elsewhere
 
