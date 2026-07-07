@@ -14,7 +14,7 @@ I work on cross-platform fintech in React Native — earned-wage access, cross-b
 
 #### Open source
 
-Contributions to [react-native](https://github.com/react/react-native/pull/57423), [posthog-js](https://github.com/PostHog/posthog-js/pull/4064), [react-native-mask-text](https://github.com/akinncar/react-native-mask-text/pull/324), and [react-native-date-picker](https://github.com/henninghall/react-native-date-picker/pull/971).
+Contributions to [react-native](https://github.com/react/react-native/pull/57423) and [react-native-mask-text](https://github.com/akinncar/react-native-mask-text/pull/324).
 
 #### Elsewhere
 
