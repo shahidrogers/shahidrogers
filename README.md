@@ -1,14 +1,10 @@
 ### Shahid R
 
-Mobile & product engineer in Kuala Lumpur.
+Head of Frontend Engineering at [Paywatch](https://paywatchglobal.com), based in Kuala Lumpur.
 
-At [Paywatch](https://paywatchglobal.com) I work on cross-platform fintech in React Native — earned-wage access, cross-border withdrawals, and KYC across a few markets.
+I work on cross-platform fintech in React Native — earned-wage access, cross-border withdrawals, and KYC across a few markets.
 
 *Infinite frontier* — the belief that there's always further to go. It's how I approach the work.
-
-#### What I work with
-
-`TypeScript` · `React Native` · `React` · `Redux` · `Node.js`
 
 #### Open source
 
