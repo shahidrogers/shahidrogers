@@ -16,7 +16,7 @@ There is always further to go.
 
 #### Open source
 
-The tools I build on are open. Now and then I send a fix back — and I want to do more of it.
+The tools I build on are open. Mostly. Now and then I send a fix back — and I want to do more of it.
 
 #### Elsewhere
 
