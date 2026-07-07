@@ -14,7 +14,7 @@ I work on cross-platform fintech in React Native — earned-wage access, cross-b
 
 #### Open source
 
-Contributions to [react-native](https://github.com/react/react-native/pull/57423) and [react-native-mask-text](https://github.com/akinncar/react-native-mask-text/pull/324).
+Contributions to [react-native](https://github.com/react/react-native) and [react-native-mask-text](https://github.com/akinncar/react-native-mask-text). Something I'm looking to do more of.
 
 #### Elsewhere
 
