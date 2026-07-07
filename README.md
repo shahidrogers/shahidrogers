@@ -4,7 +4,18 @@ Head of Frontend Engineering at [Paywatch](https://paywatchglobal.com). Kuala Lu
 
 People don't open apps. They reach for something — the pay they've already earned, a place to keep it, a way to make it grow, someone to talk to, the morning's news, a safety net for when things go wrong. I build the things they reach for — and then the next thing.
 
-*Infinite frontier.* There is always further to go.
+![Infinite frontier.](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3500&pause=2000&color=8B949E&center=false&vCenter=true&width=460&height=44&lines=Infinite+frontier.)
+
+There is always further to go.
+
+<details>
+<summary>› what's on the other side of the frontier</summary>
+
+<br/>
+
+You don't reach it. You just get better at the reaching.
+
+</details>
 
 #### Projects
 
