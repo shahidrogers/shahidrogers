@@ -8,15 +8,6 @@ People don't open apps. They reach for something — the pay they've already ear
 
 There is always further to go.
 
-<details>
-<summary>› what's on the other side of the frontier</summary>
-
-<br/>
-
-You don't reach it. You just get better at the reaching.
-
-</details>
-
 #### Projects
 
 - **[whisper-cli](https://github.com/shahidrogers/whisper-cli)** — Tell your terminal what you mean. It does the rest.
