@@ -6,15 +6,15 @@ I work on cross-platform fintech in React Native — earned-wage access, cross-b
 
 *Infinite frontier* — the belief that there's always further to go. It's how I approach the work.
 
-#### Open source
-
-Contributions to [react-native](https://github.com/react/react-native/pull/57423), [posthog-js](https://github.com/PostHog/posthog-js/pull/4064), [react-native-mask-text](https://github.com/akinncar/react-native-mask-text/pull/324), and [react-native-date-picker](https://github.com/henninghall/react-native-date-picker/pull/971).
-
 #### Projects
 
 - **[whisper-cli](https://github.com/shahidrogers/whisper-cli)** — a natural-language terminal assistant that turns plain intentions into safe shell commands
 - **[react-native-developer-console](https://github.com/shahidrogers/react-native-developer-console)** — an in-app debugging console for React Native: network logging, device info, dev tools
 - **[MaMaMo](https://github.com/shahidrogers/MaMaMo)** — an open-source ~200-equation quarterly macroeconomic model of the Malaysian economy
+
+#### Open source
+
+Contributions to [react-native](https://github.com/react/react-native/pull/57423), [posthog-js](https://github.com/PostHog/posthog-js/pull/4064), [react-native-mask-text](https://github.com/akinncar/react-native-mask-text/pull/324), and [react-native-date-picker](https://github.com/henninghall/react-native-date-picker/pull/971).
 
 #### Elsewhere
 
