@@ -2,7 +2,7 @@
 
 Head of Frontend Engineering at [Paywatch](https://paywatchglobal.com). Kuala Lumpur.
 
-People don't open apps. They reach for something — the pay they've already earned, a place to keep it, a way to make it grow, someone to talk to, the morning's news, a safety net for when things go wrong. I build the things they reach for.
+People don't open apps. They reach for something — the pay they've already earned, a place to keep it, a way to make it grow, someone to talk to, the morning's news, a safety net for when things go wrong. I build the things they reach for — and then the next thing.
 
 *Infinite frontier.* There is always further to go.
 
