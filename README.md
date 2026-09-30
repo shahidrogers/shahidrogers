@@ -4,8 +4,6 @@ Head of Frontend Engineering at [Paywatch](https://paywatchglobal.com). Kuala Lu
 
 ![Infinite frontier.](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3500&pause=2000&color=8B949E&center=false&vCenter=true&width=460&height=44&lines=Infinite+frontier.)
 
-There is always further to go.
-
 #### Projects
 
 - **[whisper-cli](https://github.com/shahidrogers/whisper-cli)** — Tell your terminal what you mean. It does the rest.
