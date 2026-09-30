@@ -6,9 +6,9 @@ Head of Frontend Engineering at [Paywatch](https://paywatchglobal.com). Kuala Lu
 
 #### Projects
 
-- **[whisper-cli](https://github.com/shahidrogers/whisper-cli)** — Tell your terminal what you mean. It does the rest.
-- **[react-native-developer-console](https://github.com/shahidrogers/react-native-developer-console)** — A window into your app while it's still running.
-- **[MaMaMo](https://github.com/shahidrogers/MaMaMo)** — An open model of the Malaysian economy. Two hundred equations. No gatekeeping.
+- **[whisper-cli](https://github.com/shahidrogers/whisper-cli)** — Turns plain-language requests into shell commands.
+- **[react-native-developer-console](https://github.com/shahidrogers/react-native-developer-console)** — An in-app debug console for React Native, with network logs and device info.
+- **[MaMaMo](https://github.com/shahidrogers/MaMaMo)** — An open-source macroeconomic model of Malaysia, built around roughly 200 equations.
 
 #### Open source
 
